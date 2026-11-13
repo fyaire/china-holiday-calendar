@@ -1,0 +1,83 @@
+{
+  "year": 2027,
+  "source": {
+    "title": "国务院办公厅关于2027年部分节假日安排的通知",
+    "document_no": "国办发明电〔2026〕10号",
+    "published": "2026-11-05",
+    "url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+    "verification_url": "https://www3.xinhuanet.com/politics/20261105/69adf4f2f2db490c9fc518874a24d602/c.html",
+    "retrieved": "2026-11-13"
+  },
+  "holidays": [
+    {
+      "id": "new-year",
+      "name": "元旦",
+      "start": "2027-01-01",
+      "end": "2027-01-03"
+    },
+    {
+      "id": "spring-festival",
+      "name": "春节",
+      "start": "2027-02-05",
+      "end": "2027-02-13"
+    },
+    {
+      "id": "qingming",
+      "name": "清明节",
+      "start": "2027-04-03",
+      "end": "2027-04-05"
+    },
+    {
+      "id": "labour-day",
+      "name": "劳动节",
+      "start": "2027-05-01",
+      "end": "2027-05-05"
+    },
+    {
+      "id": "dragon-boat",
+      "name": "端午节",
+      "start": "2027-06-09",
+      "end": "2027-06-09"
+    },
+    {
+      "id": "mid-autumn",
+      "name": "中秋节",
+      "start": "2027-09-15",
+      "end": "2027-09-15"
+    },
+    {
+      "id": "national-day",
+      "name": "国庆节",
+      "start": "2027-10-01",
+      "end": "2027-10-07"
+    }
+  ],
+  "workdays": [
+    {
+      "id": "spring-festival-before",
+      "name": "春节",
+      "date": "2027-01-31"
+    },
+    {
+      "id": "spring-festival-after",
+      "name": "春节",
+      "date": "2027-02-14"
+    },
+    {
+      "id": "labour-day-after",
+      "name": "劳动节",
+      "date": "2027-05-08"
+    },
+    {
+      "id": "national-day-before",
+      "name": "国庆节",
+      "date": "2027-09-26"
+    },
+    {
+      "id": "national-day-after",
+      "name": "国庆节",
+      "date": "2027-10-09"
+    }
+  ]
+}
+

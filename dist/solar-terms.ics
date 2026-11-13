@@ -1,0 +1,396 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fujinqiang//China Calendar Feeds//ZH-CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:二十四节气
+X-WR-CALDESC:独立的二十四节气日历，不包含法定假期和其
+ 他节日
+X-WR-TIMEZONE:Asia/Shanghai
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:PT24H
+BEGIN:VEVENT
+UID:2027-minor-cold-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:小寒
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-major-cold-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:大寒
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-start-of-spring-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:立春
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-rain-water-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:雨水
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-awakening-of-insects-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:惊蛰
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-spring-equinox-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:春分
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-qingming-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:清明
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-grain-rain-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:谷雨
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-start-of-summer-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:立夏
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-grain-buds-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:小满
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-grain-in-ear-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:芒种
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-summer-solstice-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:夏至
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-minor-heat-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:小暑
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-major-heat-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:大暑
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-start-of-autumn-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:立秋
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-end-of-heat-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+SUMMARY:处暑
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-white-dew-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:白露
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-autumn-equinox-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:秋分
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-cold-dew-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:寒露
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-frost-descent-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:霜降
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-start-of-winter-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+SUMMARY:立冬
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-minor-snow-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20271122
+DTEND;VALUE=DATE:20271123
+SUMMARY:小雪
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-major-snow-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20271207
+DTEND;VALUE=DATE:20271208
+SUMMARY:大雪
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-winter-solstice-solar-term@china-calendar.local
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20271222
+DTEND;VALUE=DATE:20271223
+SUMMARY:冬至
+DESCRIPTION:数据来源：Apple 中国大陆节假日订阅日历\n23个
+ 非清明节气由两个订阅源交叉核对；清明日期取自 Apple 
+ 源。
+URL:https://calendars.icloud.com/holidays/cn_zh.ics/
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+CATEGORIES:二十四节气
+END:VEVENT
+END:VCALENDAR

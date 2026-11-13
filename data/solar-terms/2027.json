@@ -1,0 +1,37 @@
+{
+  "year": 2027,
+  "source": {
+    "title": "Apple 中国大陆节假日订阅日历",
+    "url": "https://calendars.icloud.com/holidays/cn_zh.ics/",
+    "verification_url": "https://raw.githubusercontent.com/KaitoHH/24-jieqi-ics/master/23_solar_terms_2015-01-01_2050-12-31.ics",
+    "retrieved": "2026-11-13",
+    "note": "23个非清明节气由两个订阅源交叉核对；清明日期取自 Apple 源。"
+  },
+  "terms": [
+    {"id": "minor-cold", "name": "小寒", "date": "2027-01-05"},
+    {"id": "major-cold", "name": "大寒", "date": "2027-01-20"},
+    {"id": "start-of-spring", "name": "立春", "date": "2027-02-04"},
+    {"id": "rain-water", "name": "雨水", "date": "2027-02-19"},
+    {"id": "awakening-of-insects", "name": "惊蛰", "date": "2027-03-06"},
+    {"id": "spring-equinox", "name": "春分", "date": "2027-03-21"},
+    {"id": "qingming", "name": "清明", "date": "2027-04-05"},
+    {"id": "grain-rain", "name": "谷雨", "date": "2027-04-20"},
+    {"id": "start-of-summer", "name": "立夏", "date": "2027-05-06"},
+    {"id": "grain-buds", "name": "小满", "date": "2027-05-21"},
+    {"id": "grain-in-ear", "name": "芒种", "date": "2027-06-06"},
+    {"id": "summer-solstice", "name": "夏至", "date": "2027-06-21"},
+    {"id": "minor-heat", "name": "小暑", "date": "2027-07-07"},
+    {"id": "major-heat", "name": "大暑", "date": "2027-07-23"},
+    {"id": "start-of-autumn", "name": "立秋", "date": "2027-08-08"},
+    {"id": "end-of-heat", "name": "处暑", "date": "2027-08-23"},
+    {"id": "white-dew", "name": "白露", "date": "2027-09-08"},
+    {"id": "autumn-equinox", "name": "秋分", "date": "2027-09-23"},
+    {"id": "cold-dew", "name": "寒露", "date": "2027-10-08"},
+    {"id": "frost-descent", "name": "霜降", "date": "2027-10-23"},
+    {"id": "start-of-winter", "name": "立冬", "date": "2027-11-07"},
+    {"id": "minor-snow", "name": "小雪", "date": "2027-11-22"},
+    {"id": "major-snow", "name": "大雪", "date": "2027-12-07"},
+    {"id": "winter-solstice", "name": "冬至", "date": "2027-12-22"}
+  ]
+}
+

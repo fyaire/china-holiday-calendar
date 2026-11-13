@@ -1,0 +1,26 @@
+{
+  "start_year": 2027,
+  "end_year": 2050,
+  "updated": "2026-11-13",
+  "description": "非放假性质的常用公历节日和按星期计算的国际习俗节日",
+  "fixed": [
+    {"id": "valentines-day", "name": "情人节", "month": 2, "day": 14, "category": "西方节日"},
+    {"id": "womens-day", "name": "妇女节", "month": 3, "day": 8, "category": "纪念日"},
+    {"id": "arbor-day", "name": "植树节", "month": 3, "day": 12, "category": "纪念日"},
+    {"id": "april-fools-day", "name": "愚人节", "month": 4, "day": 1, "category": "西方节日"},
+    {"id": "youth-day", "name": "青年节", "month": 5, "day": 4, "category": "纪念日"},
+    {"id": "childrens-day", "name": "儿童节", "month": 6, "day": 1, "category": "纪念日"},
+    {"id": "cpc-founding-day", "name": "建党节", "month": 7, "day": 1, "category": "纪念日"},
+    {"id": "army-day", "name": "建军节", "month": 8, "day": 1, "category": "纪念日"},
+    {"id": "teachers-day", "name": "教师节", "month": 9, "day": 10, "category": "纪念日"},
+    {"id": "halloween", "name": "万圣夜", "month": 10, "day": 31, "category": "西方节日"},
+    {"id": "christmas-eve", "name": "平安夜", "month": 12, "day": 24, "category": "西方节日"},
+    {"id": "christmas-day", "name": "圣诞节", "month": 12, "day": 25, "category": "西方节日"}
+  ],
+  "nth_weekday": [
+    {"id": "mothers-day", "name": "母亲节", "month": 5, "weekday": "sunday", "nth": 2, "category": "国际习俗节日"},
+    {"id": "fathers-day", "name": "父亲节", "month": 6, "weekday": "sunday", "nth": 3, "category": "国际习俗节日"},
+    {"id": "thanksgiving", "name": "感恩节", "month": 11, "weekday": "thursday", "nth": 4, "category": "西方节日"}
+  ]
+}
+

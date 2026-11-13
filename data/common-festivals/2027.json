@@ -1,0 +1,13 @@
+{
+  "year": 2027,
+  "source": {
+    "title": "Apple 中国大陆节假日订阅日历",
+    "url": "https://calendars.icloud.com/holidays/cn_zh.ics/",
+    "retrieved": "2026-11-13"
+  },
+  "festivals": [
+    {"id": "lantern-festival", "name": "元宵节", "date": "2027-02-20", "category": "中国传统节日"},
+    {"id": "qixi-festival", "name": "七夕节", "date": "2027-08-08", "category": "中国传统节日"},
+    {"id": "double-ninth-festival", "name": "重阳节", "date": "2027-10-08", "category": "中国传统节日"}
+  ]
+}
